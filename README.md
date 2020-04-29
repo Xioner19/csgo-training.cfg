@@ -106,5 +106,5 @@ You are free to use, modify and share this script under the terms of the GNU GPL
 
 
 
-
+[![HitCount](http://hits.dwyl.com/xioner19/csgo-trainingcfg.svg)](http://hits.dwyl.com/xioner19/csgo-trainingcfg)
 
