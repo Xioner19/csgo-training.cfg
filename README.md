@@ -34,7 +34,7 @@ curl https://codeload.github.com/xioner19/csgo-training.cfg/tar.gz/master | tar 
 
 ### IMPORTANT
 
-You have to paste your viewfinder in the 115 line (`alias "-crosshairsmoke"`) of the cfg file. Otherwise, when you press the key responsible for this, it will set my crosshairsmoke :P
+You have to paste your crosshair in the 115 line (`alias "-crosshairsmoke"`) of the cfg file. Otherwise, when you press the key responsible for this, it will set my crosshairsmoke :P
 
 ## Usage
 
