@@ -92,7 +92,7 @@ Changing maps is very easy. Just write the name of the map in the console e.g. `
 
 In private message `Xioner19#6215` write me what I could add to the current config, i.e. new binds, aliases or commands....
 
-...or you can surprise me by sending some skin to the weapons here --> https://steamcommunity.com/tradeoffer/new/?partner=258608059&token=YHSUg6JU. - THANK YOU !
+...or you can surprise me by sending some skin to the weapons [HERE](https://steamcommunity.com/tradeoffer/new/?partner=258608059&token=YHSUg6JU) - THANK YOU !
 
 ## Changelog
 
