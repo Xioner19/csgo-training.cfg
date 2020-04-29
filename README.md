@@ -23,7 +23,7 @@ This adds only 1 file to your /csgo/cfg folder. It does not overwrite any game f
 Manually download the repositorium by clicking [**HERE**](https://github.com/Xioner19/csgo-training.cfg./archive/master.zip). Then extract the folder.
 
 **Method 2.**
-On Windows 10 17063 or later, run the [`install_csgo-training.cfg.bat`](https://raw.githubusercontent.com/Xioner19/csgo-training.cfg/master/install_training.cfg.bat) file to automatically download the script into your game files. It can also be used to update the script.
+On Windows 10 17063 or later, run the [`install_csgo-training.cfg.bat`](https://raw.githubusercontent.com/Xioner19/csgo-training.cfg/master/install_csgo-training.cfg.bat?token=APLQQYL56Q7F5HAB5ZJS6X26VFNK2) file to automatically download the script into your game files. It can also be used to update the script.
 
 **Method 3.**
 In bash, after changing the directory below to your Steam game library directory, use the following commands to install the script into your game files.
